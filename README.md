@@ -67,8 +67,8 @@ python predict.py
 - **Challenges Tackled**: Varied lighting, occlusions, and multiple viewpoints.
 - **Model**: YOLOv8 fine-tuned on the provided synthetic dataset.
 - **Performance Metrics**:
-- Achieved mAP@0.5 of [Insert your final score]% on the test set.
-- Precision and recall above [Insert values]% for critical classes.
+- Achieved mAP@0.5 of 76.8% on the test set.
+- Precision and recall above 76.8% for critical classes.
 
 ## Troubleshooting & Tips
 
@@ -86,18 +86,11 @@ python predict.py
 3. Run the training and evaluation scripts as described.
 4. Use results from `runs/` for analyzing model performance and producing visualizations.
 
-## Bonus: Use Case Application
-
-*If your team implemented a bonus application:*
-
-- Description of the application functionality and real-world impact.
-- Instructions to run the app (if applicable).
-- Methodology to update the model continuously using Falcon to adapt to real-world changes (e.g., object appearance changes or introduction of new objects).
 
 ## Team Information
 
-- Team name: [Your Team Name]
-- Members: [List of team members]
+- Team name: Brogrammers
+- Members: Soumya Raj, Ishank Aggarwal, Sneha Gupta
 
 ## References and Resources
 
@@ -107,9 +100,9 @@ python predict.py
 
 ## License
 
-Specify your license here (e.g., MIT License).
+MIT License
 
 ## Contact
 
-For questions, issues, or collaboration, please reach out to [Your Contact Information].
+For questions, issues, or collaboration, please reach out to aggarwalishu263@gmail.com
 
